@@ -1,3 +1,8 @@
+## Features
+- Add, delete, and modify tasks
+- Timers set next to each task so that you can spend a certain amount of time focused on completing the tasks
+- Track the total amount of time spent completing different tasks
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
